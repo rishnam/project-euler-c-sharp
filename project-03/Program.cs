@@ -9,6 +9,7 @@ namespace Project_3
 {
     class Program
     {
+        //600851475143
         static void Main(string[] args)
         {
             const long number = 600851475143;
