@@ -37,4 +37,13 @@ Program.exe
 2. This checks whether or not it is divisible by the numbers from 2 to 20
 3. If one of the divisibilty fails, the while loop is exited and the number is incremented
 ```
+## [Project 06](https://projecteuler.net/problem=6) 
+```bash
+cd project-06
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc" Program.cs
+Program.exe
+1. The summation formula is used to find the sum of the first 100 numbers and then the result is squared
+2. The for loop goes from 1 to 100
+3. Each number is squared and added to the variable sumOfSquare and the difference is outputed at the end of the loop
+```
 
