@@ -23,9 +23,18 @@ cd project-04
 "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc" Program.cs
 Program.exe
 1. First the program loops from the smallest product of a 2 three digit multiplication to the largest
-2. Then identifies wheter or not the integer is a palindrome by converting the integers into a string and reversing the string
+2. Then identifies whether or not the integer is a palindrome by converting the integers into a string and reversing the string
 3. Then the program adds the palindrome's factors, that are thre digits long, into a hashtable
 4. For each factor, the program checks whether or not there's another factor that would provide a product which is the palindrome number
 5. When the program finds the two number, it is outputed
+```
+## [Project 05](https://projecteuler.net/problem=5) 
+```bash
+cd project-05
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc" Program.cs
+Program.exe
+1. The program iterates from 20 and onwards
+2. This checks whether or not it is divisible by the numbers from 2 to 20
+3. If one of the divisibilty fails, the while loop is exited and the number is incremented
 ```
 
