@@ -17,4 +17,10 @@ cd project-03
 "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc" Program.cs
 Program.exe
 ```
+## [Project 04](https://projecteuler.net/problem=4) 
+```bash
+cd project-04
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc" Program.cs
+Program.exe
+```
 
