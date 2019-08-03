@@ -46,4 +46,12 @@ Program.exe
 2. The for loop goes from 1 to 100
 3. Each number is squared and added to the variable sumOfSquare and the difference is outputed at the end of the loop
 ```
-
+## [Project 07](https://projecteuler.net/problem=7) 
+```bash
+cd project-07
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc" Program.cs
+Program.exe
+1. The program loops through the natural set of numbers and looks for a prime number
+2. Once a prime number is identified, the "count" variable is incremented and exists the loop once it's 1001
+3. The program then outputs the number it's currently on which is the 1001'st prime number.
+```
