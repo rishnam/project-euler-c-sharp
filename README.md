@@ -70,3 +70,11 @@ cd project-09
 Program.exe
 1. The program uses Euclid's method of finding Pythagorean Triplets.
 ```
+## [Project 10](https://projecteuler.net/problem=10) 
+```bash
+cd project-10
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc" Program.cs
+Program.exe
+1. The progam loops through every natural number below 2 million by going up in 2 (to avoid even numbers).
+2. The prime number check is done on each number and if the number is a prime, then the value is added to the sum which is outputted at the the end of the loop.
+```
