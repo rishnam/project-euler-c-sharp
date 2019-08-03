@@ -63,3 +63,10 @@ Program.exe
 1. The program multiples every consecutive 13 digits of the number and adds the product into a list.
 2. Once that is done, the list is sorted into ascending order and the last element of the list is the largest product which is diplayed onto the screen.
 ```
+## [Project 09](https://projecteuler.net/problem=9) 
+```bash
+cd project-09
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc" Program.cs
+Program.exe
+1. The program uses Euclid's method of finding Pythagorean Triplets.
+```
