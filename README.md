@@ -55,3 +55,11 @@ Program.exe
 2. Once a prime number is identified, the "count" variable is incremented and exists the loop once it's 1001
 3. The program then outputs the number it's currently on which is the 1001'st prime number.
 ```
+## [Project 08](https://projecteuler.net/problem=8) 
+```bash
+cd project-08
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc" Program.cs
+Program.exe
+1. The program multiples every consecutive 13 digits of the number and adds the product into a list.
+2. Once that is done, the list is sorted into ascending order and the last element of the list is the largest product which is diplayed onto the screen.
+```
